@@ -82,9 +82,6 @@ __Exit__ :
 
 ![IMG_20200410_103335](https://user-images.githubusercontent.com/49580304/78964248-31e86700-7b17-11ea-8696-7dbf89b4d7de.jpg)
 
-## 📌 ***Full video tutorial***:
-https://m.youtube.com/channel/UCPryULOKRzGmb_xWrrL1nYQ
-
 ## 🔗 ***Check this***
 
 ### Subscribe our channel on youtube:
