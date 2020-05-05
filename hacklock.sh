@@ -1,6 +1,6 @@
 #!/bin/bash
 # Hacklock by Nitro
-#youtube.com/noobhackers
+#youtube.com/sujoybiswas
 #not for illegel use
 #pattern phishing tool for termux no root.
 
