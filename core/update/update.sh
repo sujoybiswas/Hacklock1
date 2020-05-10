@@ -35,7 +35,7 @@ echo -e "$grn                updating the HackLock please wait$rset"
 sleep 2.0
 cd $HOME
 rm -rf hacklock
-git clone https://github.com/sujoybiswas/hacklock1
+git clone https://github.com/sujoybiswas/hacklock
 clear
 echo " "
 echo -e "$grn               HackLock has been updated check it now...$rset"
