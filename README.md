@@ -40,13 +40,13 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/sujoybiswas/hacklock1
+$ git clone https://github.com/sujoybiswas/Hacklock1
 ```
 ```
 $ ls
 ```
 ```
-$ cd hacklock
+$ cd Hacklock1
 ```
 ```
 $ ls
@@ -63,7 +63,7 @@ $ bash hacklock.sh
 
 * Note:- Don't delete any of the scripts included in core files
 
-# 🛡 ***More***:
+# 🛡️ ***More***:
 
 __Hack pattern__ :
 - From this option you can create phishing pattern link which get keys of victim pattern after he used this link
@@ -81,6 +81,7 @@ __Exit__ :
 ![IMG_20200410_101025](https://user-images.githubusercontent.com/49580304/78963074-e1233f00-7b13-11ea-97e9-b9d79412fb55.jpg)"
 
 ![IMG_20200410_103335](https://user-images.githubusercontent.com/49580304/78964248-31e86700-7b17-11ea-8696-7dbf89b4d7de.jpg)
+
 
 ## 🔗 ***Check this***
 
